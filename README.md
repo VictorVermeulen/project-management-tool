@@ -63,3 +63,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##
+On Windows computer it is a bit more annoying to run docker. You have to do this from Ubuntu. You can cd into the right folder there with
+cd mnt/c/Users/Victor/Desktop/project-management-tool/project-management-tool/ 
